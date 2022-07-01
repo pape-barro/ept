@@ -18,5 +18,5 @@
  * Aucun.
  
  # ``` Contenu: ```
- 1. [`Introduction à l’algorithmique et à la programmation C/C++`](https://github.com/pape-barro/zip/blob/main/Introduction_aux_systemes_embarques.pdf) - ``` 28 Juin 2022 ``` ;
+ 1. [`Introduction à l’algorithmique et à la programmation C/C++`](https://github.com/pape-barro/ept-gi/blob/main/intro_algo-gi.pdf) - ``` 28 Juin 2022 ``` ;
 
