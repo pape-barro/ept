@@ -18,5 +18,5 @@
  * Aucun.
  
  # ``` Contenu: ```
- 1. [`Introduction à l’algorithmique et à la programmation C/C++`](https://github.com/pape-barro/ept-gi/blob/main/intro_algo-gi.pdf) - ``` 28 Juin 2022 ``` ;
+ [`Support (En cours ...)`](https://github.com/pape-barro/ept-gi/blob/main/support.pdf) - ``` 21 Juillet 2022 ``` ;
 
