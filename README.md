@@ -18,5 +18,5 @@
  * Aucun.
  
  # ``` Contenu: ```
- [`Support (En cours ...)`](https://github.com/pape-barro/ept-gi/blob/main/support.pdf) - ``` 21 Juillet 2022 ``` ;
+ [`Support de cours`](https://github.com/pape-barro/ept-gi/blob/main/support.pdf) - ``` 06 Décembre 2022 ``` ;
 
